@@ -4,7 +4,6 @@
  * @brief Connect your ESP32 to a specific access point (AP) if you have many AP with same name(SSID), Make sure that you used the right password
  * @version 0.1
  * @date 2022-10-13
- *
  * @copyright Copyright (c) 2022
  *
  */
